@@ -4,5 +4,33 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
     font-family: "Poppins", sans-serif;
+}
+
+:root {
+    /* :root là CSS pseudo-class đại diện cho root element (<html>) của tài liệu HTML 
+
+    CSS custom property (thuộc tính tùy chỉnh)/CSS variable
+     
+    Syntax) --variable-name: value;
+
+    Con số 900, 100, etc. xuất hiện để chỉ độ đậm/tối của màu (thường thấy trong hệ thống màu kiểu Tailwind CSS hoặc Material Design)
+    */
+    --bg-black-900: #f2f2fc;
+    --bg-black-100: #fdf9ff;
+    --bg-black-50: #e8dfec;
+    --text-black-900: #302e4d;
+    --text-black-700: #504e70;
+}
+
+body {
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+::before,
+::after {
+    box-sizing: border-box;
 }

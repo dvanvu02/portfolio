@@ -2,7 +2,7 @@ Personal Portfolio Website
 
 Languages and Technologies:
     Frontend: HTML, CSS, JavaScript
-    Development Tools: Github, IDES
+    Development Tools: Github, VSCode
     Others: 
 
 Font: https://cdnjs.com/
