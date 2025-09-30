@@ -56,7 +56,14 @@ portfolio/
 
 
 ## ▶️ Live Demo
-
-
-
-#### dvanvu02
+🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
+## 📚 Learning Outcomes
+- Built a responsive website from scratch.
+- Learned to showcase projects effectively for recruiters.
+- Gained experience in deploying static websites using GitHub Pages.
+## 💡 Future Improvements
+- Add dark mode toggle.
+- Integrate blog section.
+- Improve SEO and performance (Lighthouse optimization).
+- Add animations and transitions for smoother UX.
+#### @dvanvu02
