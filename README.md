@@ -1,23 +1,56 @@
-# 🌐 Welcom to Portfolio Website
-
+# 🌐 Portfolio Website
 ## 📌 Overview
-This is my **personal portfolio website**, built to showcase my projects, skills, and experience.  
-The site is designed with a clean, modern, and responsive layout to provide an excellent user experience on both desktop and mobile devices.  
-
+- A **responsive personal portfolio website** built with **HTML, CSS, and JavaScript**.  
+- This project was created as a learning exercise and customized to serve as a personal showcase.
 _Current status: 🚧 Work in Progress_
-
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Version Control:** Git & GitHub  
-
 ## 🚀 Features
-- **Home Section** – Short introduction about myself.  
-- **About Section** – Education, background, and interests.  
-- **Projects Section** – Showcasing my key projects with links to GitHub repos.  
-- **Contact Section** – Contact form and social media links.  
-- **Responsive Design** – Fully optimized for mobile, tablet, and desktop.  
-## ▶️ Demo  
+- 🎨 **Modern & high-quality design**
+- 📱 **Fully responsive layout**
+- 💡 **Built with HTML5, CSS3, and Vanilla JavaScript**
+- 🧹 **Clean & well-commented code**
+- 🎨 **Live Style Switcher** (Light/Dark mode, 5 color skins)
+- 🖼️ **Multiple sections**: Sidebar, Home, About, Services, Portfolio, Contact
+- ✍️ **Typing text animation** 
+## Folder Structure
+```plaintext
+portfolio/
+ │── index.html         # Main HTML file
+ │── css/
+ │   └── style.css      # Main stylesheet
+ │── js/
+ │   └── script.js      # Main JavaScript file
+ │── images/            # Image assets
+ │── README.md          # Project documentation
+```
+## How to Run Locally
 
-## 📂 Project Structure
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/dvanvu02/portfolio.git
+   ```
+
+
+2. Navigate to the project folder:
+    ```bash
+    cd portfolio
+    ```
+
+
+3. Open the website in your browser:
+- Option 1 (simplest): Double-click the index.html file to open it in your default web browser.
+- Option 2 (using VS Code):
+    1. Open VS Code.
+    2. Select File → Open Folder... and choose the portfolio folder.
+    3. Open `index.html` in VS Code, then right-click and choose Open with Live Server (if you have the Live Server extension installed) for a live-reload preview.
+*No additional installation is required since this is a static website.*
+
+
+## ▶️ Live Demo
+
+
 
 #### dvanvu02
