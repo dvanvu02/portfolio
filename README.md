@@ -12,12 +12,26 @@ _Current status: 🚧 Work in Progress_
 - **Version Control:** Git & GitHub  
 ## 🚀 Features
 🎨 **Modern & high-quality design**
+
+
 📱 **Fully responsive layout**
+
+
 💡 **Built with HTML5, CSS3, and Vanilla JavaScript**
+
+
 🧹 **Clean & well-commented code**
+
+
 🎨 **Live Style Switcher** (Light/Dark mode, 5 color skins)
+
+
 🖼️ **Multiple sections**: Sidebar, Home, About, Services, Portfolio, Contact
+
+
 ✍️ **Typing text animation** 
+
+
 ## 📂 Folder Structure
 ```plaintext
 portfolio/
