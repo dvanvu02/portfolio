@@ -8,7 +8,7 @@ _Current status: 🚧 Work in Progress_
 
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript  
+- **Frontend:** HTML5, CSS3, JavaScript  
 - **Version Control:** Git & GitHub  
 ## 🚀 Features
 - **Modern & high-quality design**
@@ -59,20 +59,20 @@ portfolio/
 🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
 ## ✅ Screenshots
 _Homepage_
-![Homepage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Homepage.png)
+![Homepage Screenshot]()
 _Bandpage_
-![Bandpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Bandpage.png)
+![Bandpage Screenshot]()
 _Tourpage_
-![Tourpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Tourpage.png)
+![Tourpage Screenshot]()
 _Contactpage_
-![Contactpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Contactpage.png)
+![Contactpage Screenshot]()
 ## 📚 Learning Outcomes
-- Built a responsive website from scratch.
-- Learned to showcase projects effectively for recruiters.
-- Gained experience in deploying static websites using GitHub Pages.
+- Gained hands-on experience in building a personal portfolio website.
+- Enhanced skills in frontend web development using HTML, CSS, and JavaScript.
+- Learned to deploy a static website using GitHub Pages.
 ## 💡 Future Improvements
-- Add dark mode toggle.
-- Integrate blog section.
+- Integrate a backend to handle form submissions.
+- Add animations and transitions for a more dynamic user experience.
+- Include a blog or articles section to share knowledge and insights.
 - Improve SEO and performance (Lighthouse optimization).
-- Add animations and transitions for smoother UX.
 #### @dvanvu02
