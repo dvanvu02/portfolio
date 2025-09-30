@@ -57,6 +57,15 @@ portfolio/
 
 ## ▶️ Live Demo
 🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
+## ✅ Screenshots
+_Homepage_
+![Homepage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Homepage.png)
+_Bandpage_
+![Bandpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Bandpage.png)
+_Tourpage_
+![Tourpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Tourpage.png)
+_Contactpage_
+![Contactpage Screenshot](https://github.com/dvanvu02/the-band-website/blob/main/demo-images/Contactpage.png)
 ## 📚 Learning Outcomes
 - Built a responsive website from scratch.
 - Learned to showcase projects effectively for recruiters.
