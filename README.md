@@ -58,9 +58,9 @@ portfolio/
 ## ▶️ Live Demo
 🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
 ## ✅ Screenshots
-_Homepage_
+_Home section_
 ![Homepage Screenshot]()
-_Bandpage_
+_About section_
 ![Bandpage Screenshot]()
 _Tourpage_
 ![Tourpage Screenshot]()
