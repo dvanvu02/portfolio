@@ -59,7 +59,7 @@ portfolio/
 🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
 ## ✅ Screenshots
 _Home section_
-![Homepage Screenshot]()
+![Home section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Home-section.png)
 _About section_
 ![Bandpage Screenshot]()
 _Tourpage_
