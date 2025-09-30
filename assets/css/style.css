@@ -9,6 +9,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     /* :root là CSS pseudo-class đại diện cho root element (<html>) của tài liệu HTML 
 
