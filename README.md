@@ -58,6 +58,7 @@ portfolio/
 ## ▶️ Live Demo
 🔗 [Click here to view](https://dvanvu02.github.io/portfolio/)
 ## ✅ Screenshots
+
 _Home section_
 ![Home section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Home-section.png)
 
@@ -77,7 +78,7 @@ _Darkmode_
 ![Darkmode Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Darkmode.png)
 
 _Theme colors_
-![Theme colors Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Themecolors.png)
+![Theme colors Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Theme-color.png)
 
 ## 📚 Learning Outcomes
 - Gained hands-on experience in building a personal portfolio website.
