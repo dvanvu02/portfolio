@@ -60,12 +60,25 @@ portfolio/
 ## ✅ Screenshots
 _Home section_
 ![Home section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Home-section.png)
+
 _About section_
-![Bandpage Screenshot]()
-_Tourpage_
-![Tourpage Screenshot]()
-_Contactpage_
-![Contactpage Screenshot]()
+![About section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/About-section.png)
+
+_Service section_
+![Service section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Service-section.png)
+
+_Portfolio section_
+![Portfolio section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Portfolio-section.png)
+
+_Contact section_
+![Contact section Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Contact-section.png)
+
+_Darkmode_
+![Darkmode Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Darkmode.png)
+
+_Theme colors_
+![Theme colors Screenshot](https://github.com/dvanvu02/portfolio/blob/main/demo-images/Themecolors.png)
+
 ## 📚 Learning Outcomes
 - Gained hands-on experience in building a personal portfolio website.
 - Enhanced skills in frontend web development using HTML, CSS, and JavaScript.
